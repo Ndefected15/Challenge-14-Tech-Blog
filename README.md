@@ -25,7 +25,8 @@ Clone this repo, and ensure you have node downloaded and installed on your machi
 
 [Use this full stack web application to create accounts, comments and communicate with other users about technology!!](https://still-harbor-03794.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/92278942/153792705-f5a78363-d99b-47c2-adc7-b67bc7654432.png)
+![image](https://user-images.githubusercontent.com/92278942/154769567-5a5e1f64-b312-4ae6-a498-5f84b9346f4c.png)
+
 
 ## License:
 
